@@ -1,2 +1,2 @@
-# PYTHON_HOME
-my first home work
+# Python
+основы языка Python
